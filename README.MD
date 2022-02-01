@@ -3,6 +3,7 @@ The repo contains IPA,IRA,OPA,PRA and CPA coding solutions ,written in a very si
 
 ## AUTHOR:-
 # Varisha Rashid(IIITDMJ)
-
+Linkedin - https://www.linkedin.com/in/varisharashid/
+Codechef - https://www.codechef.com/users/varisha25
 
 
